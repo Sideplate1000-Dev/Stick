@@ -1,5 +1,7 @@
 # Stick Mac
 
+# Atention: Stick mac files is not finished becuase I was lazy
+
 ## Warning: The Mac Version Has NOT Been Tested(I just changed the target Platform)
 
 A Game I'm making
