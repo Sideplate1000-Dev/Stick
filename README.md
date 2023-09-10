@@ -1,4 +1,7 @@
-# Stick
+# Stick Mac
+
+## Warning: The Mac Version Has NOT Been Tested(I just changed the target Platform)
+
 A Game I'm making
 it's still in early develpoment so bugs and other things are there.
 
