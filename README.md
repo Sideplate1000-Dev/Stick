@@ -1,7 +1,8 @@
 # Stick
 
-> # Warning: Stick is still in early develpoment so bugs and other things are there.
+> # Note: The Files are **NOT** up to date
 
+> ## Warning: Stick is still in early develpoment so bugs and other things are there.
 
 
 A Game I'm making
