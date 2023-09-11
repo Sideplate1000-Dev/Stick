@@ -1,5 +1,7 @@
 # Stick Mac
 
+> # The Stick Mac version is no longer being uppdated or suported so it wont work(don't try)
+
 # Atention: Stick mac files is not finished becuase I was lazy
 
 ## Warning: The Mac Version Has NOT Been Tested(I just changed the target Platform)
