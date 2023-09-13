@@ -38,12 +38,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/level 2/ded 1.unity
     guid: 4609882e2b721074790fd45cd59c8f2d
-  - enabled: 1
-    path: Assets/Scenes/level 3/very scary.unity
-    guid: aa4615ea4baab724b9be573c038992ae
-  - enabled: 1
-    path: Assets/Scenes/level 3/maybe scary.unity
-    guid: 93c77ae1db520f54cae9faabb8c34c46
+  - enabled: 0
+    path: Assets/Scenes/level 1/level 1 name.unity
+    guid: 86c68b59c9d180646999d678be0233c8
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d9cb05e570ea2c749bb1a1596a946575, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 30bec0ddbbbd00e4e9328848718db508, type: 2}
