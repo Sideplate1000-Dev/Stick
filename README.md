@@ -7,4 +7,4 @@
 
 A Game I'm making
 
-if you have unity I'm fine with you making changes to the game(to make it better) and uploading them here
+if you have unity I'm fine with you making changes to the game(to make it better) and uploading them here under pull requests or something I didn't read how github works
