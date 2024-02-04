@@ -1,7 +1,5 @@
 # Stick
 
-> # Note: The Files are **NOT** up to date
-
 > ## Warning: Stick is still in early develpoment so bugs and other things are there.
 
 
