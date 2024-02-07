@@ -1,8 +1,4 @@
-# Stick
+# Stick Update Storge
 
-> ## Warning: Stick is still in early develpoment so bugs and other things are there.
+> ## this branch is for git to push the game files to github to be merged to main
 
-
-A Game I'm making
-
-if you have unity I'm fine with you making changes to the game(to make it better) and uploading them here under pull requests or something I didn't read how github works
