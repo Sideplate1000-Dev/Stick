@@ -1,5 +1,8 @@
 # Stick
 
+> [!IMPORTANT]  
+> Stick is no longer being developed, feel free to get the files and continue it yourself
+
 > ## Warning: Stick is still in early develpoment so bugs and other things are there.
 
 
