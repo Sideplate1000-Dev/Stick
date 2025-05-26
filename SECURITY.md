@@ -6,7 +6,7 @@ The following table show what version of stick will be updated with security upd
 
 | Version | Supported          |
 | ------- | ------------------ |
-| future updates | :white_check_mark: |
+| future updates | :x: |
 | other fun things     | :x:   |
 | 0.2     | :x:                | 
 | 0.1.x   | :x:                |
